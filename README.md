@@ -1,6 +1,6 @@
 # yelp-slack
 Get Yelp search results in Slack
-
+#adopted by Ajay Mutreja from Jack Campbell repository
 ![example image](http://i.imgur.com/jet2aBz.png)
 
 ### What you will need
