@@ -1,5 +1,5 @@
 source "https://rubygems.org"
-ruby "2.5.7" :engine => "jruby", :engine_version => "9.2.11.1" 
+ruby "2.5.7"
 gem 'rails', '4.1.0.rc2'
 gem 'rack-cache'
 gem 'nokogiri', '~> 1.6.1'
