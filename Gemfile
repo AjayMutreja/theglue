@@ -1,6 +1,6 @@
 source "https://rubygems.org"
 
-gen 'rack-catche'
+gen 'rack-cache'
 gem "sinatra"
 gem "thin"
 gem "dotenv"
