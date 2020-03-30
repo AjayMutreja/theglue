@@ -1,6 +1,7 @@
 source "https://rubygems.org"
 ruby "2.5.7"
-bundle
+bundler.setup
+
 gem "sinatra"
 gem "thin"
 gem "dotenv"
