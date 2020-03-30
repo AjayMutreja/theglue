@@ -1,6 +1,6 @@
 source "https://rubygems.org"
 ruby "2.5.7"
-bundler.setup
+Bundler.setup
 
 gem "sinatra"
 gem "thin"
