@@ -18,8 +18,8 @@ Get Yelp search results in Slack
   * ```BOT_ICON``` The emoji icon for the bot
   * ```YELP_CONSUMER_KEY``` The consumer key for your Yelp API credentials
   * ```YELP_CONSUMER_SECRET``` The consumer secret for your Yelp API credentials
-  * ```YELP_TOKEN``` The token for your Yelp API credentials
-  * ```YELP_TOKEN_SECRET``` The token secret for your Yelp API credentials
+  * ```YELP_TOKEN``` The token for your Yelp API credentials {New Yelp Fusion Upgrade Does Not Need this variable anymore}
+  * ```YELP_TOKEN_SECRET``` The token secret for your Yelp API credentials {New Yelp Fusion Upgrade ~ No Need this variable anymore}
   * ```RADIUS``` The radius for the search in meteres. Maximum radius is 40000 meters (25 miles)
   * ```LOCATION``` The center of the radius for your searches. Can be a zip code, neighborhood, adress, or city
 * Navigate to the integrations page for your Slack team. Create an outgoing webhook, choose a trigger word (ex: ".lunch"), use the URL for your heroku app, and copy the webhook token to your ```OUTGOING_WEBHOOK_TOKEN``` config variable.
